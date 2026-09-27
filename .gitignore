@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+particle/
+.env
+.env.*
+Images/
+output/
+*.tif
+*.tiff
+*.csv
+!examples/sample_manifest.csv
+*.log
+.DS_Store
+Thumbs.db
